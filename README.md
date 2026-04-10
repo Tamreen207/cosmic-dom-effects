@@ -21,5 +21,5 @@ An interactive web project built using JavaScript DOM manipulation to create dyn
 ---
 
 ## 🚀 Live Demo
-👉 (Add your GitHub Pages link here after hosting)
+👉 (https://tamreen207.github.io/cosmic-dom-effects/)
 
