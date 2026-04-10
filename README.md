@@ -2,10 +2,6 @@
 
 An interactive web project built using JavaScript DOM manipulation to create dynamic UI effects and engaging visual animations.
 
----
-
-## 🚀 Live Demo
-👉 (Add your GitHub Pages link here after hosting)
 
 ---
 
@@ -24,4 +20,6 @@ An interactive web project built using JavaScript DOM manipulation to create dyn
 
 ---
 
-## 📂 Project Structure
+## 🚀 Live Demo
+👉 (Add your GitHub Pages link here after hosting)
+
